@@ -1,5 +1,5 @@
 # MixNet-Pytorch
-This repository contains a concise, modular, human-friendly **PyTorch** implementation of **[MixNet](https://arxiv.org/abs/1907.09595v3)** with **[Pre-trained Weights](https://drive.google.com/open?id=1C5IhQd8UfvVY32GYhyQAjvY92IzPi7fY)**.
+This repository contains a concise, modular, human-friendly **PyTorch** implementation of **[MixNet](https://arxiv.org/abs/1907.09595v3)** with **[Pre-trained Weights](https://github.com/ansleliu/MixNet-Pytorch/tree/master/pretrained_weights)**.
 
 
 ## Dependencies
@@ -13,6 +13,6 @@ This repository contains a concise, modular, human-friendly **PyTorch** implemen
 
 |   *Name*   |*# Params*| *# FLOPS*  |*Top-1 Acc.*| *Pretrained* |
 |:----------:|:--------:|:----------:|:----------:|:------------:|
-| `MixNet-S` |   4.1M   |   0.256B   |    75.2    | [GoogleDrive](https://drive.google.com/open?id=1GAB04ft47OhmG_AbrQCcYiezJ8o00veX) |
-| `MixNet-M` |   5.0M   |   0.360B   |    76.5    | [GoogleDrive](https://drive.google.com/open?id=1h_JT21EcPEmy7eNgnbI4-ORwRVJNxGsu) |
-| `MixNet-L` |   7.3M   |   0.565B   |    78.6    | [GoogleDrive](https://drive.google.com/open?id=1CapQmg4Yvrdzzi3XaJkjWVFHOPT74Zat) |
+| `MixNet-S` |   4.1M   |   0.256B   |    75.2    |   [GitHub](https://github.com/ansleliu/MixNet-Pytorch/blob/master/pretrained_weights/mixnet_s_top1v_75.2.pkl)   |
+| `MixNet-M` |   5.0M   |   0.360B   |    76.5    |   [GitHub](https://github.com/ansleliu/MixNet-Pytorch/blob/master/pretrained_weights/mixnet_m_top1v_76.5.pkl)   |
+| `MixNet-L` |   7.3M   |   0.565B   |    78.6    |   [GitHub](https://github.com/ansleliu/MixNet-Pytorch/blob/master/pretrained_weights/mixnet_l_top1v_78.6.pkl)   |
