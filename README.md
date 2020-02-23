@@ -1,4 +1,4 @@
-# MixNet-Pytorch
+# MixNet-PyTorch
 This repository contains a concise, modular, human-friendly **PyTorch** implementation of **[MixNet](https://arxiv.org/abs/1907.09595v3)** with **[Pre-trained Weights](https://github.com/ansleliu/MixNet-Pytorch/tree/master/pretrained_weights)**.
 
 
